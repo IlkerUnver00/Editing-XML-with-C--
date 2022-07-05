@@ -1,0 +1,15 @@
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\obj\Debug\net6.0\xmlcalisma2.csproj.AssemblyReference.cache
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\obj\Debug\net6.0\xmlcalisma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\obj\Debug\net6.0\xmlcalisma2.AssemblyInfoInputs.cache
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\obj\Debug\net6.0\xmlcalisma2.AssemblyInfo.cs
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\obj\Debug\net6.0\xmlcalisma2.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\bin\Debug\net6.0\xmlcalisma2.exe
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\bin\Debug\net6.0\xmlcalisma2.deps.json
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\bin\Debug\net6.0\xmlcalisma2.runtimeconfig.json
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\bin\Debug\net6.0\xmlcalisma2.dll
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\bin\Debug\net6.0\xmlcalisma2.pdb
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\obj\Debug\net6.0\xmlcalisma2.dll
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\obj\Debug\net6.0\refint\xmlcalisma2.dll
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\obj\Debug\net6.0\xmlcalisma2.pdb
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\obj\Debug\net6.0\xmlcalisma2.genruntimeconfig.cache
+C:\Users\Mehmet Emin UNVER\source\repos\xmlcalisma2\xmlcalisma2\obj\Debug\net6.0\ref\xmlcalisma2.dll

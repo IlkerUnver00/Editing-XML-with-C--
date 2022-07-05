@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IsRehberim>
+  <rehber id="1">
+    <kisi_Adı>Selim</kisi_Adı>
+    <kisi_Tel>0532*******</kisi_Tel>
+    <kisi_EMail>anil@anilkahraman.com</kisi_EMail>
+  </rehber>
+  <rehber id="2">
+    <kisi_Adı>Seyfi Genc</kisi_Adı>
+    <kisi_Tel>0553*******</kisi_Tel>
+    <kisi_EMail>seyfi@seyfigenc.com</kisi_EMail>
+  </rehber>
+  <rehber id="3">
+    <kisi_Adı>Osman Dağasan</kisi_Adı>
+    <kisi_Tel>0555*******</kisi_Tel>
+    <kisi_EMail>osman@osmandagasan.com</kisi_EMail>
+  </rehber>
+  <rehber id="4">
+    <kisi_Adı>Ömer&amp;nbsp;Şakir</kisi_Adı>
+    <kisi_Tel>0555*******</kisi_Tel>
+    <kisi_EMail>omer@hotmail.com</kisi_EMail>
+  </rehber>
+</IsRehberim>
